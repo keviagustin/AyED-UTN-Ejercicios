@@ -47,6 +47,52 @@ int main()
     // cout << "El promedio del estudiante es: " << promedio / 3 << endl;
 
     /* Ejercicio 3 */
+    // int ladosDelDado[5];
+    // bool esGenerala;
+
+    // for(int i = 0; i<5; i++){
+    //     cout<<"ingrese el valor del dado "<< i+1<< ": "<<endl;
+    //     cin>> ladosDelDado[i];
+
+    //     if(i > 0 && ladosDelDado[i] != ladosDelDado[0]){
+    //         esGenerala = false;
+    //     }
+    // }
+
+    // if(esGenerala){
+    //     cout<<"Es generala"<<endl;
+    // }else{
+    //     cout<<"No es generala"<<endl;
+    // }
+
+    // /* Ejercicio 4 */
+    // int numeroIngresado;
+    // cout<< "Ingresa un número: ";
+    // cin>>numeroIngresado;
+    // if(numeroIngresado % 2 != 0 ){
+    //     cout<<"El número "<< numeroIngresado<< " es impar"<<endl;
+    // }else{
+    //     cout<<"El número "<< numeroIngresado<< " es par"<<endl;
+    // }
+
+//    /* Ejercicio 5 */
+//    int ladosTriangulo[3];
+
+//    for(int i = 0; i < 3; i++){
+//     cout<<"Ingresa el lado "<< i+1<< " del triangulo"<<endl;
+//     cin>>ladosTriangulo[i];
+//    }
+
+//    if(ladosTriangulo[0] == ladosTriangulo[1] && ladosTriangulo[1] == ladosTriangulo[2]){
+//         cout<<"El triángulo es Equilátero"<<endl;
+//     }else if(ladosTriangulo[0] == ladosTriangulo[1] || ladosTriangulo[1] == ladosTriangulo[2] || ladosTriangulo[0] == ladosTriangulo[2]){
+//         cout<<"El triángulo es Isósceles"<<endl;
+//     }else{
+//         cout<<"El triángulo es Escaleno"<<endl;
+//     }
+
+      /* Ejercicio 6 */
+         
 
     return 0;
 }
